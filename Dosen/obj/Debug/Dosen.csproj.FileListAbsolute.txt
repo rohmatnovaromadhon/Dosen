@@ -1,0 +1,8 @@
+D:\Permrograman\Pertemuan ke6\Dosen\Dosen\bin\Debug\Dosen.exe.config
+D:\Permrograman\Pertemuan ke6\Dosen\Dosen\bin\Debug\Dosen.exe
+D:\Permrograman\Pertemuan ke6\Dosen\Dosen\bin\Debug\Dosen.pdb
+D:\Permrograman\Pertemuan ke6\Dosen\Dosen\obj\Debug\Dosen.csproj.AssemblyReference.cache
+D:\Permrograman\Pertemuan ke6\Dosen\Dosen\obj\Debug\Dosen.csproj.SuggestedBindingRedirects.cache
+D:\Permrograman\Pertemuan ke6\Dosen\Dosen\obj\Debug\Dosen.csproj.CoreCompileInputs.cache
+D:\Permrograman\Pertemuan ke6\Dosen\Dosen\obj\Debug\Dosen.exe
+D:\Permrograman\Pertemuan ke6\Dosen\Dosen\obj\Debug\Dosen.pdb
